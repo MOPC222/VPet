@@ -1,6 +1,6 @@
 Happy#Happy:|
-Nomal#Nomal:|
-PoorCondition#Poor Condition:|
+Nomal#Normal:|
+PoorCondition#Sad:|
 Ill#Ill:|
 一次购买#Purchase:|
 个#at a time:|
@@ -15,17 +15,17 @@ Ill#Ill:|
 标签#Tags:|
 获得 {0:f1} 退款#Get {0:f1} Refund:|
 名称#Name:|
-累计花费#Accumulated Spend:|
+累计花费#and spent on them::|
 你的好友{0}邀请你玩游戏,快去回应ta吧#Your friend {0} invites you to play games, go and respond to he/she!:|
-主人#Master:|
-主人名字#Master Name:|
-主人生日#Master's Birthday:|
-生日祝福#Birthday Wishes:|
+主人#User:|
+主人名字#User name:|
+主人生日#User's birthday:|
+生日祝福#Birthday wishes:|
 来自#From:|
-的生日祝福#'s Birthday Greetings:|
+的生日祝福# wishes you Happy Birthday!:|
 自定义祝福#Customized:|
 填写自定义的祝福词吧#Fill in your customized message!:|
-选择头像图片#Select avatar image:|
+选择头像图片#Select avatar:|
 {0} 祝 {1} 生日快乐!#{0} Happy Birthday to {1}!:|
 2025新年快乐#Happy New Year 2025!:|
 萝莉丝祝您蛇行大运#Lolis wishes you a very lucky snake!:|
@@ -38,9 +38,9 @@ Special_Birthday_Voice_vup#Happy Birthday{0}~\n Wishing you a blessed life with 
 2025新年萝莉丝#2025 New Year Lolis:|
 祝主人新年快乐！是仙子萝莉丝！#Happy New Year to the master! It's the fairy Lolis!:|
 今天是{0}的生日！祝{0}生日快乐！#Today is {0}'s birthday! Happy birthday to {0}!:|
-其他辅助工具#Other Tools:|
-导出动画详情#Export Animation Details:|
+其他辅助工具#Other tools:|
+导出动画详情#Export animation details:|
 导出创意工坊会话 JSON#Export Workshop Session JSON:|
 导出创意工坊会话失败：{0}#Failed to export workshop sessions: {0}:|
-导出失败#Export Failed:|
-重启桌宠#Restart VPet:|
+导出失败#Export failed:|
+重启桌宠#Restart vPet:|

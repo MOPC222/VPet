@@ -1,22 +1,22 @@
 25年都跨过去了, 还有什么是跨不过的呢? {0}这一年辛苦了! 新年请多多指教!#If 2025 has already passed, what else can't we get through? {0}, you've worked hard this year! Let's continue to get along well in the New Year!:|
-物品 {0} 使用失败#Item {0} failed to use:|
+物品 {0} 使用失败#Cannot use item {0}:|
 该物品无法使用#This item cannot be used:|
 你打开了{0},获得了物品#You opened {0} and obtained an item:|
 2026跨年#2026 New Year’s Eve:|
 你们说，跨年算不算一种微型穿越？#Would you say that celebrating the New Year is a kind of mini time-travel?:|
 指?针, 指针已经扭曲了, 实在看不懂在指哪边, 而且时不时还会乱晃, 有点吓人\n我亲爱的达瓦里氏,这玩意怎么在乱晃啊#Pointer? The needles are all warped, I really can’t tell which way they're pointing, and they keep shaking randomly—it’s a bit creepy\nMy dear comrade, why is this thing shaking so much?:|
-背包#Backpack:|
+背包#Inventory:|
 物品栏#Inventory:|
 收藏物品#Collected Items:|
 使用#Use:|
 物品分类#Item Categories:|
 暂无物品#No items yet:|
-Item_Food#Item:|
-Item_Tool#Tool:|
-Item_Toy#Toy:|
+Item_Food#Items:|
+Item_Tool#Tools:|
+Item_Toy#Toys:|
 Item_Mail#Mail:|
-搜索物品#Search Items:|
-总价值#Total Value:|
+搜索物品#Search:|
+总价值#Value:|
 指南针#Compass:|
 球拍#Badminton Racket:|
 泡泡枪#Bubble Gun:|
@@ -38,20 +38,20 @@ L徽章#L Badge:|
 请输入访客表ID/固定ID#Please enter Guest List ID/Fixed ID:|
 屏蔽该用户#Block:|
 向 聪明萝莉斯AI 询问问题#Ask Smart Lolis AI a question:|
-启用窗口自动切换#enable window auto switch:|
-启用窗口切换，桌宠将能自主切换窗口#enable window switch, desktop pet will be able to switch windows on its own:|
+启用窗口自动切换#Enable moving between windows:|
+启用窗口切换，桌宠将能自主切换窗口#If enabled, vPet will be able to move between windows on their own:|
 前往 更好买:贡献兑换#Go to Betterbuy: Contribution Exchange:|
-存档管理#Saves:|
-打开存档管理器#Open Save Management:|
-查看并加载游戏存档#View and Load Game Save:|
-存档管理器#Saves Management:|
-筛选来源:#Filter Source::|
+存档管理#Saved games:|
+打开存档管理器#Manage saved games:|
+查看并加载游戏存档#View and manage saved games:|
+存档管理器#Saved games manager:|
+筛选来源:#Source::|
 本地#Local:|
 本地存档, 会被Steam自动同步#Local saves, will be automatically synced by Steam:|
 离线备份#Offline Backup:|
 本地备份文件, 不会被steam云存档同步#Local backup files, will not be synced by Steam Cloud:|
-Steam储存#Steam Storage:|
-Steam云储存备份存档, 跟随Steam账号保存#Steam Storage backup saves, saved with your Steam account:|
-筛选存档时间:#Filter Save Time::|
+Steam储存#Steam Cloud:|
+Steam云储存备份存档, 跟随Steam账号保存#Steam Cloud backup saves, synced with your Steam account:|
+筛选存档时间:#Time::|
 来源#Source:|
-存档时间#Save Time:|
+存档时间#Created at:|

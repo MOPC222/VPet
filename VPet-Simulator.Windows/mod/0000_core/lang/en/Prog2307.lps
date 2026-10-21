@@ -61,7 +61,7 @@ MOD更新成功#Mod update success:|
 您的反馈已提交成功,感谢您的反馈与提交\nVOS将会尽快处理您的反馈并做的更好#Feedback success submitted. Thank you for your feedback and submit\nVOS will process your feedback as soon as possible and do better:|
 您今天的反馈次数已达上限#You've reached your maximum number of feedback today:|
 您今天的反馈次数已达上限,请明天再来反馈.\n或欢迎加入虚拟主播模拟器群430081239反馈问题#You've reached your maximum number of feedback today, please come back tomorrow for feedback.\nOr go the https://github.com/LorisYounger/VPet for feedback problem:|
-反馈提交失败,遇到错误#Feedback submit failed with error:|
+反馈提交失败,遇到错误#Feedback could not be sent because of an error:|
 反馈上传失败\n欢迎加入虚拟主播模拟器群430081239手动反馈问题\n服务器消息:#Feedback submit failed\nWelcome to the https://github.com/LorisYounger/VPet for feedback\nServer Message::|
 反馈上传失败,可能是网络或其他问题导致无法上传\n欢迎加入虚拟主播模拟器群430081239手动反馈问题\n#Feedback submit failed, may be a network or other issue preventing the upload\nWelcome to the https://github.com/LorisYounger/VPet for feedback\n:|
 存档名称:{0}\n存档等级:{1}\n存档金钱:{2}\nHashCheck:{3}\n是否加载该备份存档? 当前游戏数据会丢失#Save name:{0}\nSave level:{1}\nSave money:{2}\nHashCheck:{3}\nLoad the backup save? Current game data will be lost:|
